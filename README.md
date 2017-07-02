@@ -1,1 +1,1 @@
-# xctf-exercise-problems
+# xctf比赛的一些题目文件，可以给想要练习的人练习。
